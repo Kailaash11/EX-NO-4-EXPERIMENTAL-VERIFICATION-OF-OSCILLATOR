@@ -29,7 +29,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+![WhatsApp Image 2025-11-30 at 21 57 51_80e2028c](https://github.com/user-attachments/assets/6e09feea-b50b-4c45-9b5a-8e7ca4ea5113)
 
 
 
@@ -56,17 +56,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 3.	Measure the output wave frequency and amplitude.
 ---
 ## TABULATION/OBSERVATION
+![WhatsApp Image 2025-11-30 at 21 57 52_47cf9c37](https://github.com/user-attachments/assets/93c248b8-e1d8-4a45-a3c5-0198d4703aa6)
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-30 at 21 57 53_b2e9b22e](https://github.com/user-attachments/assets/7006fc0a-1aea-4fb3-93bb-be5a4cf2b443)
 
 
 ---
@@ -90,7 +85,8 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+![WhatsApp Image 2025-11-30 at 21 57 52_9cd05e41](https://github.com/user-attachments/assets/1e0ad0c9-a2ec-49fa-a3bb-425fa29d8963)
+
 
 
 ---
@@ -123,17 +119,12 @@ Rf = 15K *2=30KΩ
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
+![WhatsApp Image 2025-11-30 at 21 57 52_904e1e6d](https://github.com/user-attachments/assets/24c1dfab-cef2-4747-a90e-5d5b35a3e1ff)
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="1131" alt="image" src="https://github.com/user-attachments/assets/5ee5ce42-4355-41e3-b082-4f821f7b0044" />
 
 
 ---
