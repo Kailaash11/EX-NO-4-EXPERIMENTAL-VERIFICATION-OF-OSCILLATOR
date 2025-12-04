@@ -41,6 +41,9 @@ RC PHASE SHIFT OSCILLATOR
 
 ## DESIGN
 
+![WhatsApp Image 2025-12-04 at 11 44 57_d2e4eaaa](https://github.com/user-attachments/assets/61b2b860-a7a9-405f-b16b-034db96fb36a)
+
+
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
 C = 0.01F, fo = 200 Hz.
@@ -98,6 +101,9 @@ WIEN BRIDGE OSCILLATOR
 ---
 
 ## DESIGN
+
+![WhatsApp Image 2025-12-04 at 11 45 15_c00cb811](https://github.com/user-attachments/assets/c70dabfb-43e1-43b7-85fc-45fb0d7d5fcf)
+
 
 ## WIEN BRIDGE OSCILLATOR
 Select frequency f0 = 1KHz
